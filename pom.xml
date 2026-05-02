@@ -23,7 +23,7 @@
 
     <groupId>org.jvnet.mimepull</groupId>
     <artifactId>mimepull</artifactId>
-    <version>1.11.0</version>
+    <version>1.11.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>MIME Streaming Extension</name>
     <description>Provides a streaming API to access attachments parts in a MIME message.</description>
@@ -33,7 +33,7 @@
         <connection>scm:git:ssh://git@github.com/eclipse-ee4j/metro-mimepull.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/eclipse-ee4j/metro-mimepull.git</developerConnection>
         <url>https://github.com/eclipse-ee4j/metro-mimepull</url>
-        <tag>1.11.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
